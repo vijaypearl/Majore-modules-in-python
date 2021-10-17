@@ -19,4 +19,4 @@ print(output)  # output = vijaykala15me168@gmail.com
 para = "I love you so much d udaya"
 condition = re.compile("[a-zA-Z0-9]+")
 ans = condition.findall(para)
-print(ans[0])  # ans = ['I', 'love', 'you', 'so', 'much', 'd', 'udaya'] 
+print(ans[0])  # ans = ['I', 'love', 'you', 'so', 'much', 'd', 'udaya']
